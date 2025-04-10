@@ -15,3 +15,4 @@ D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\obj\Debug\net8.0\ref\CalculoIRRFeI
 D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\bin\Debug\net8.0\FluentValidation.dll
 D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\obj\Debug\net8.0\CalculoIRRFeINSS.csproj.AssemblyReference.cache
 D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\obj\Debug\net8.0\CalculoI.FDD29FD0.Up2Date
+D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\obj\Debug\net8.0\CalculoIRRFeINSS.sourcelink.json

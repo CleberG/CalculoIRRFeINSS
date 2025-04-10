@@ -109,3 +109,4 @@ D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS.Tests\bin\Debug\net8.0\NSubstitute
 D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS.Tests\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
 D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
 D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS.Tests\obj\Debug\net8.0\CalculoIRRFeINSS.Tests.sourcelink.json
