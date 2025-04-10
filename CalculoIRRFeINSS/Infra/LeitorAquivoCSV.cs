@@ -5,7 +5,7 @@ using System.Globalization;
 
 namespace CalculoIRRFeINSS.Infra
 {
-    internal class LeitorAquivoCSV : ILeitoArquivoCSV
+    public class LeitorAquivoCSV : ILeitoArquivoCSV
     {
         public LeitorAquivoCSV()
         {

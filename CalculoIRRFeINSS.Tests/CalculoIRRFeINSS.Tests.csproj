@@ -22,10 +22,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Infra\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\CalculoIRRFeINSS\CalculoIRRFeINSS.csproj" />
   </ItemGroup>
 

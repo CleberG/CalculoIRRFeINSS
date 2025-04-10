@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculoIRRFeINSS.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a57b7c758beaee3eb6bfcf5b7ec92c8b8ceed76")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculoIRRFeINSS.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculoIRRFeINSS.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

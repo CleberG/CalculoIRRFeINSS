@@ -1,6 +1,4 @@
-﻿using System;
-using System.Threading.Tasks;
-using CalculoIRRFeINSS.Application;
+﻿using CalculoIRRFeINSS.Application;
 using CalculoIRRFeINSS.Domain.Entidades;
 using CalculoIRRFeINSS.Domain.Validators;
 using CalculoIRRFeINSS.Infra;
