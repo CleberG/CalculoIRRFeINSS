@@ -78,7 +78,7 @@ namespace CalculoIRRFeINSS.Tests.Domain
 
             var inss = empregado.CalcularINSS();
 
-            Assert.True(inss > 0); // Valor exato depende da lógica atual de faixa
+            Assert.Equal(360.00m, inss);
         }
 
         [Fact]
@@ -91,7 +91,7 @@ namespace CalculoIRRFeINSS.Tests.Domain
 
             var baseIR = empregado.BaseCalculoIRRF();
 
-            Assert.True(baseIR > 0);
+            Assert.True(baseIR == 4148.20m);
         }
 
         [Fact]
