@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculoIRRFeINSS", "CalculoIRRFeINSS\CalculoIRRFeINSS.csproj", "{DC14CDBC-464C-4755-900E-811318334DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoIRRFeINSS.Tests", "CalculoIRRFeINSS.Tests\CalculoIRRFeINSS.Tests.csproj", "{A4FB0A26-6A18-4E48-8064-A631B28CAA59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC14CDBC-464C-4755-900E-811318334DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC14CDBC-464C-4755-900E-811318334DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC14CDBC-464C-4755-900E-811318334DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC14CDBC-464C-4755-900E-811318334DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4FB0A26-6A18-4E48-8064-A631B28CAA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4FB0A26-6A18-4E48-8064-A631B28CAA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4FB0A26-6A18-4E48-8064-A631B28CAA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4FB0A26-6A18-4E48-8064-A631B28CAA59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A84B8933-4DC9-4143-A01D-B10AF9744755}
+	EndGlobalSection
+EndGlobal

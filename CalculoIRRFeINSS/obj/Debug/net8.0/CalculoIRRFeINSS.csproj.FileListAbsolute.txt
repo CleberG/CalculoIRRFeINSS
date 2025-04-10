@@ -1,0 +1,17 @@
+D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\bin\Debug\net8.0\CalculoIRRFeINSS.exe
+D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\bin\Debug\net8.0\CalculoIRRFeINSS.deps.json
+D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\bin\Debug\net8.0\CalculoIRRFeINSS.runtimeconfig.json
+D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\bin\Debug\net8.0\CalculoIRRFeINSS.dll
+D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\bin\Debug\net8.0\CalculoIRRFeINSS.pdb
+D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\obj\Debug\net8.0\CalculoIRRFeINSS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\obj\Debug\net8.0\CalculoIRRFeINSS.AssemblyInfoInputs.cache
+D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\obj\Debug\net8.0\CalculoIRRFeINSS.AssemblyInfo.cs
+D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\obj\Debug\net8.0\CalculoIRRFeINSS.csproj.CoreCompileInputs.cache
+D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\obj\Debug\net8.0\CalculoIRRFeINSS.dll
+D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\obj\Debug\net8.0\refint\CalculoIRRFeINSS.dll
+D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\obj\Debug\net8.0\CalculoIRRFeINSS.pdb
+D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\obj\Debug\net8.0\CalculoIRRFeINSS.genruntimeconfig.cache
+D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\obj\Debug\net8.0\ref\CalculoIRRFeINSS.dll
+D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\bin\Debug\net8.0\FluentValidation.dll
+D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\obj\Debug\net8.0\CalculoIRRFeINSS.csproj.AssemblyReference.cache
+D:\Projetos\CalculoIRRFeINSS\CalculoIRRFeINSS\obj\Debug\net8.0\CalculoI.FDD29FD0.Up2Date
